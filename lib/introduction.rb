@@ -1,5 +1,5 @@
 name = "Dan"
-launguage = "Ruby"
+launguage = "React"
 
 def introduction
   puts "Hi, my name is #{name}"
