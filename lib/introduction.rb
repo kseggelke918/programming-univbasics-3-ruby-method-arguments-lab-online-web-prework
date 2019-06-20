@@ -1,4 +1,4 @@
-name = "Josh"
+name = "Dan"
 launguage = "Ruby"
 
 def introduction
