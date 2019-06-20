@@ -2,6 +2,7 @@ name = "Dan"
 launguage = "React"
 
 def introduction
+  name = "Dan"
   puts "Hi, my name is #{name}"
 end
 
