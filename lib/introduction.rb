@@ -1,6 +1,3 @@
-name = "Dan"
-language = "React"
-
 def introduction(name)
   puts "Hi, my name is #{name}"
 end
@@ -14,5 +11,7 @@ end
   #launguage = "Ruby"
 #end
 
-introduction(name)
+introduction("Josh")
+introduction("Dan")
+
 introduction_with_language(name,language)
